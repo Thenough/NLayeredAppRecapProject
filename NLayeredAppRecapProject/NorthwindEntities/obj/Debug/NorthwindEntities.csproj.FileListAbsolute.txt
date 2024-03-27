@@ -1,0 +1,6 @@
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindEntities\bin\Debug\NorthwindEntities.dll
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindEntities\bin\Debug\NorthwindEntities.pdb
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindEntities\obj\Debug\NorthwindEntities.csproj.AssemblyReference.cache
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindEntities\obj\Debug\NorthwindEntities.csproj.CoreCompileInputs.cache
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindEntities\obj\Debug\NorthwindEntities.dll
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindEntities\obj\Debug\NorthwindEntities.pdb

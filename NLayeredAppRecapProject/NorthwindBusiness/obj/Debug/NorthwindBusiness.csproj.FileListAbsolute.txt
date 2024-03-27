@@ -1,0 +1,14 @@
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindBusiness\bin\Debug\NorthwindBusiness.dll
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindBusiness\bin\Debug\NorthwindBusiness.pdb
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindBusiness\bin\Debug\NorthwindEntities.dll
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindBusiness\bin\Debug\NrthwindDataAccess.dll
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindBusiness\bin\Debug\EntityFramework.dll
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindBusiness\bin\Debug\NorthwindEntities.pdb
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindBusiness\bin\Debug\NrthwindDataAccess.pdb
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindBusiness\bin\Debug\NrthwindDataAccess.dll.config
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindBusiness\bin\Debug\EntityFramework.xml
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindBusiness\obj\Debug\NorthwindBusiness.csproj.AssemblyReference.cache
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindBusiness\obj\Debug\NorthwindBusiness.csproj.CoreCompileInputs.cache
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindBusiness\obj\Debug\NorthwindBusiness.csproj.CopyComplete
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindBusiness\obj\Debug\NorthwindBusiness.dll
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NorthwindBusiness\obj\Debug\NorthwindBusiness.pdb

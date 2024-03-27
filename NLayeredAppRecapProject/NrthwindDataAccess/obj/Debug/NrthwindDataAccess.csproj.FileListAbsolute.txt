@@ -1,0 +1,14 @@
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NrthwindDataAccess\bin\Debug\NrthwindDataAccess.dll.config
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NrthwindDataAccess\bin\Debug\NrthwindDataAccess.dll
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NrthwindDataAccess\bin\Debug\NrthwindDataAccess.pdb
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NrthwindDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NrthwindDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NrthwindDataAccess\bin\Debug\NorthwindEntities.dll
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NrthwindDataAccess\bin\Debug\NorthwindEntities.pdb
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NrthwindDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NrthwindDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NrthwindDataAccess\obj\Debug\NrthwindDataAccess.csproj.AssemblyReference.cache
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NrthwindDataAccess\obj\Debug\NrthwindDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NrthwindDataAccess\obj\Debug\NrthwindDataAccess.csproj.CopyComplete
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NrthwindDataAccess\obj\Debug\NrthwindDataAccess.dll
+C:\Users\mcann\OneDrive\Masaüstü\btk\NLayeredAppRecapProject\NrthwindDataAccess\obj\Debug\NrthwindDataAccess.pdb
